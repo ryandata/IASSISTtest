@@ -1,0 +1,10 @@
+Package: IASSISTtest
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Ryan Womack
+Maintainer: The package maintainer <rwomack@scarletmail.rutgers.edu>
+Description: A small demonstration package for IASSIST 2017
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
